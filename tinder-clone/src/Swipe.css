@@ -1,0 +1,12 @@
+.swipe_items{
+    display: flex;
+    justify-content: space-evenly;  
+    position: fixed;
+    bottom: 0vh;
+    width: 100%;
+}
+.swipe_element{
+    background-color: white;
+    padding: 3vw ;
+
+}

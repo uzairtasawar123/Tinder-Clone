@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+
+.fire_icon{
+    object-fit: contain;
+    height: 70px;
+}
+
+.header_icon{
+    padding: 20px;
+}
